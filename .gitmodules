@@ -1,9 +1,9 @@
 [submodule "Lean.Brokerages.Coinbase"]
 	path = Lean.Brokerages.Coinbase
-	url = https://github.com/GitPaci/Lean.Brokerages.Coinbase.git
+	url = https://github.com/QuantConnect/Lean.Brokerages.Coinbase.git
 [submodule "Lean.DataSource.CoinAPI"]
 	path = Lean.DataSource.CoinAPI
-	url = https://github.com/GitPaci/Lean.DataSource.CoinAPI.git
+	url = https://github.com/QuantConnect/Lean.DataSource.CoinAPI.git
 [submodule "Lean.Brokerages.Tastytrade"]
 	path = Lean.Brokerages.Tastytrade
-	url = https://github.com/GitPaci/Lean.Brokerages.Tastytrade.git
+	url = https://github.com/QuantConnect/Lean.Brokerages.Tastytrade
